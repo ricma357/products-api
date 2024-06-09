@@ -1,0 +1,6 @@
+# config/routes.yaml
+controllers:
+    resource: '../src/Controller/'
+    type: annotation
+api_login_check:
+    path: /api/login_check
